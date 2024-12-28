@@ -1,4 +1,4 @@
-soal#3 profit
+soal#3 Profit
 
 soal: Seorang pedagang sedang menghitung keuntungan yang diperoleh bulan ini dibandingkan bulan sebelumnya. Buatlah program untuk membantu pedagang tersebut.
 
