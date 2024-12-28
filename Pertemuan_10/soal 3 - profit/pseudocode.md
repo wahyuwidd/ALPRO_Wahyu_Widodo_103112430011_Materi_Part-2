@@ -1,4 +1,4 @@
-program 
+program Profit
 kamus
     keuntunganBulanIni, keuntunganBulanSebelumnya, selisih : real
 algoritma
