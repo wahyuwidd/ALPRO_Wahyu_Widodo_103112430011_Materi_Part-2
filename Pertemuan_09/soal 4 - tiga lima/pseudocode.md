@@ -1,4 +1,4 @@
-program 
+program TigaLima
 kamus
     bilangan : integer
 algoritma
