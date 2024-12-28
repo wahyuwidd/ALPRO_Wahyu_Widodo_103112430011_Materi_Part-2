@@ -1,7 +1,15 @@
-program 
+program Dompet
 kamus
-    a : integer
+    transaksi, saldo : integer
 algoritma
-    dd
-
+    saldo <- 0
+    input(transaksi)
+    while (true) do
+        input(transaksi)
+        if transaksi = 0 then
+            stop
+        endif
+        saldo <- saldo + transaksi
+    endwhile
+    output(saldo)
 endprogram
